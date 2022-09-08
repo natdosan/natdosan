@@ -5,11 +5,15 @@ My name is Nate and I am a junior studying Data Science at the University of Cal
 
 ### Get to know me!
 
-##Work Experience:
+## Education:
+* Pasadena City College
+* University of California, San Diego
+
+## Work Experience:
 
 * DS/Python Developer Intern @ Chan Zuckerburg Biohub
 
-##Projects:
+## Projects:
 
 * Regression and Statistical Analysis for a restaurant business
 * NBA Finals Public Sentiment Analysis
@@ -49,7 +53,7 @@ My name is Nate and I am a junior studying Data Science at the University of Cal
 ## Stats
 
 
-##Additional Info:
+## Additional Info:
 
 * I work in mainly in Python
 * 📫 How to reach me: natdosana@gmail.com
