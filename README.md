@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
 ## My name is Nate and I am a junior studying Data Science at the University of California, San Diego
 
-# Get to know me!
+### Get to know me!
 
 Work Experience:
 
