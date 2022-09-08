@@ -14,6 +14,8 @@ Projects:
 * NBA Finals Public Sentiment Analysis
 * NBA Finals Winner Prediction
 
+Additional Info:
+
 * I work in mainly in Python
 * 📫 How to reach me: natdosana@gmail.com
 * ⚡ Fun fact: I like music composition, Impressionism, video games, and food!
