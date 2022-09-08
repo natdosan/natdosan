@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**natdosan/natdosan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 My name is Nate and I am a junior studying Data Science at the University of California, San Diego
 
 Get to know me!
