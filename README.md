@@ -6,14 +6,14 @@
 
 Work Experience:
 
-*DS/Python Developer Intern @ Chan Zuckerburg Biohub
+* DS/Python Developer Intern @ Chan Zuckerburg Biohub
 
 Projects:
 
-*Regression and Statistical Analysis for a restaurant business
-*NBA Finals Public Sentiment Analysis
-*NBA Finals Winner Prediction
+* Regression and Statistical Analysis for a restaurant business
+* NBA Finals Public Sentiment Analysis
+* NBA Finals Winner Prediction
 
-*I work in mainly in Python
-*📫 How to reach me: natdosana@gmail.com
-*⚡ Fun fact: I like music composition, Impressionism, video games, and food!
+* I work in mainly in Python
+* 📫 How to reach me: natdosana@gmail.com
+* ⚡ Fun fact: I like music composition, Impressionism, video games, and food!
