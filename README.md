@@ -14,6 +14,10 @@ My name is Nate and I am a junior studying Data Science at the University of Cal
 
 * DS/Python Developer Intern @ Chan Zuckerburg Biohub
 
+## Relative Coursework
+
+* Introduction to Data Science, Principles of Data Science, Business Statistics, Econometrics, Discrete Math, Linear Algebra, OOP in C++
+
 ## Projects:
 
 * Regression and Statistical Analysis for a restaurant business
