@@ -5,6 +5,9 @@ My name is Nate and I am a junior studying Data Science at the University of Cal
 
 ### Get to know me!
 
+### Currently
+* Learning Panda queries, Simulations and Bootstrapping
+
 ## Education:
 * Diablo Valley College
 * Pasadena City College
