@@ -6,7 +6,13 @@ My name is Nate and I am a junior studying Data Science at the University of Cal
 ### Get to know me!
 
 ### Currently
-* Learning Panda queries, Simulations and Bootstrapping
+* Brainstorming a new DS project
+* learning and implementing new classifcation algorithms
+* Watching Emma Ding on YouTube
+
+### Previously
+* Learning Panda queries, Simulations and Bootstrapping, AB Testing principles, regressionm and MSE
+* Querying and exploring Spotify's Top 200 Charts dataset
 
 ## Education:
 * Diablo Valley College
@@ -15,7 +21,7 @@ My name is Nate and I am a junior studying Data Science at the University of Cal
 
 ## Work Experience:
 
-* DS/Python Developer Intern @ Chan Zuckerburg Biohub
+* Data Science Intern @ Chan Zuckerburg Biohub
 
 ## Relative Coursework
 
