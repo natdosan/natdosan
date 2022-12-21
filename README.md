@@ -11,7 +11,8 @@ My name is Nate and I am a junior studying Data Science at the University of Cal
 * Watching Emma Ding on YouTube
 
 ### Previously
-* Learning Panda queries, Simulations and Bootstrapping, AB Testing principles, regressionm and MSE
+* Learning the complete Data Science process and lifecycle in UCSD's "Intro to Data Science Course"
+* Learning Panda queries, Simulations and Bootstrapping, AB Testing principles, regressionm and MSE in UCSD's Data 8 Equivalent, DSC10
 * Querying and exploring Spotify's Top 200 Charts dataset
 
 ## Education:
