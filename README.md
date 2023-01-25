@@ -6,9 +6,9 @@ My name is Nate and I am a junior studying Data Science at the University of Cal
 ### Get to know me!
 
 ### Nate's To-Do List: 1/25/23
-* 9 bug fixes in DSC20 Lab 
+* 8 bug fixes in DSC20 Lab 
 * 15 bug fixes in DSC20 HW
-* Begin DSC40A HW
+* Finish DSC40A HW
 * Begin MATH189 HW
 
 ### Currently
