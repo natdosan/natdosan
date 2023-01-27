@@ -28,10 +28,12 @@ My name is Nate and I am a junior studying Data Science at the University of Cal
 ## Work Experience:
 
 * Data Science Intern @ Chan Zuckerburg Biohub
+* Got Plate Lunch
+* UC Berkeley
 
 ## Relative Coursework
 
-* Introduction to Data Science, Principles of Data Science, Business Statistics, Econometrics, Discrete Math, Linear Algebra, OOP in C++
+* Theoretical Foundations of Data Science, Introduction to Data Science, Principles of Data Science, Business Statistics, Econometrics, Discrete Math, Linear Algebra, OOP in C++
 
 ## Projects:
 
