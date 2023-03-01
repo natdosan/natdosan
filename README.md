@@ -5,10 +5,8 @@ My name is Nate and I am a junior studying Data Science at the University of Cal
 
 ### Get to know me!
 
-### Nate's To-Do List: 2/19/23
-* Study for DSC20 Midterm
-* Finish DSC20 HW 7
-* Finish DSC40A HW 4, 5
+### Nate's To-Do List: 3/1/23
+* KNN image classification
 
 ### Currently
 * taking a course on the Fundamental Mathematics behind Data Science 
