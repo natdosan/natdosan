@@ -5,8 +5,8 @@ My name is Nate and I am a junior studying Data Science at the University of Cal
 
 ### Get to know me!
 
-### Nate's To-Do List: 3/1/23
-* KNN image classification
+### Nate's To-Do List:
+
 
 ### Currently
 * taking a course on the Fundamental Mathematics behind Data Science 
