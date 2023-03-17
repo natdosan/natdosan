@@ -6,10 +6,12 @@ My name is Nate and I am a junior studying Data Science at the University of Cal
 ### Get to know me!
 
 ### Nate's To-Do List:
+* Learn about MLOPs
+* Practice SQL
 
 
 ### Currently
-* taking a course on the Fundamental Mathematics behind Data Science 
+* taking a course on the Fundamental Mathematics behind Data Science and Machine Learning 
 * learning and implementing new classifcation algorithms
 * Watching Emma Ding on YouTube
 
@@ -23,15 +25,15 @@ My name is Nate and I am a junior studying Data Science at the University of Cal
 * Pasadena City College
 * University of California, San Diego
 
-## Work Experience:
+## Experience:
 
-* Data Science Intern @ Chan Zuckerburg Biohub
+* Chan Zuckerburg Biohub
 * Got Plate Lunch
-* UC Berkeley
+* University of California, Berkeley
 
 ## Relative Coursework
 
-* Theoretical Foundations of Data Science, Introduction to Data Science, Principles of Data Science, Business Statistics, Econometrics, Discrete Math, Linear Algebra, OOP in C++
+* Theoretical Foundations of Data Science, Optimization & Risk Minimization, EDA, AB Testing & Bootstrapping, Probability and Statistics, Data Structures & Algorithms, Intro to Machine Learning
 
 ## Projects:
 
