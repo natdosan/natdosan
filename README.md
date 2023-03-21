@@ -9,7 +9,6 @@ My name is Nate and I am a junior studying Data Science at the University of Cal
 * Learn about MLOPs
 * Practice SQL
 
-
 ### Currently
 * taking a course on the Fundamental Mathematics behind Data Science and Machine Learning 
 * learning and implementing new classifcation algorithms
@@ -25,7 +24,7 @@ My name is Nate and I am a junior studying Data Science at the University of Cal
 * Pasadena City College
 * University of California, San Diego
 
-## Experience:
+## Work & Leadership Experience:
 
 * Chan Zuckerburg Biohub
 * Got Plate Lunch
@@ -72,7 +71,11 @@ My name is Nate and I am a junior studying Data Science at the University of Cal
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 
-## Stats
+## Accomplishments
+* Accepted to University of California, Berkeley, Los Angeles, and San Diego!
+* Apart of Chan Zuckerberg Biohub
+* Part of Deloitte's Mentorship Program
+* California All Northern Honor Band 2020
 
 
 ## Additional Info:
