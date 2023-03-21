@@ -11,6 +11,7 @@ My name is Nate and I am a junior studying Data Science at the University of Cal
 
 ### Currently
 * taking a course on the Fundamental Mathematics behind Data Science and Machine Learning 
+* taking a course on Data Structures and Algorithms
 * learning and implementing new classifcation algorithms
 * Watching Emma Ding on YouTube
 
