@@ -78,5 +78,5 @@ My name is Nate and I am a junior studying Data Science at the University of Cal
 ## Additional Info:
 
 * I work in mainly in Python
-* 📫 How to reach me: natdosana@gmail.com
+* 📫 How to reach me: natdosan@berkeley.edu or nadelrosario@ucsd.edu
 * ⚡ Fun fact: I like music composition, Impressionism, video games, and food!
