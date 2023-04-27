@@ -1,5 +1,6 @@
 # Hi there 👋 
 # @natdosan
+# [Personal Website](https://ndelrosx6.wixsite.com/natdosan)
 
 My name is Nate and I am a junior studying Data Science at the University of California, San Diego
 
