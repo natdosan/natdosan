@@ -3,19 +3,6 @@
 # [Personal Website](https://ndelrosx6.wixsite.com/natdosan)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natdosan&show_icons=true&theme=jolly)
 
-### Get to know me!
-My name is Nate and I am a junior studying Data Science at the University of California, San Diego
-
-### Nate's To-Do List:
-* Learn about MLOPs
-* Practice SQL
-
-### Currently
-* taking a course on the Fundamental Mathematics behind Data Science and Machine Learning 
-* taking a course on Data Structures and Algorithms
-* learning and implementing new classifcation algorithms
-* Watching Emma Ding on YouTube
-
 ## Skills
 <p align="center">
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -41,6 +28,19 @@ My name is Nate and I am a junior studying Data Science at the University of Cal
 <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
+
+### Get to know me!
+My name is Nate and I am a junior studying Data Science at the University of California, San Diego
+
+### Nate's To-Do List:
+* Learn about MLOPs
+* Practice SQL
+
+### Currently
+* taking a course on the Fundamental Mathematics behind Data Science and Machine Learning 
+* taking a course on Data Structures and Algorithms
+* learning and implementing new classifcation algorithms
+* Watching Emma Ding on YouTube
 
 ## Places I've Studied:
 * Diablo Valley College
