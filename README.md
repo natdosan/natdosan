@@ -3,10 +3,8 @@
 # [Personal Website](https://ndelrosx6.wixsite.com/natdosan)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natdosan&show_icons=true&theme=jolly)
 
-
-My name is Nate and I am a junior studying Data Science at the University of California, San Diego
-
 ### Get to know me!
+My name is Nate and I am a junior studying Data Science at the University of California, San Diego
 
 ### Nate's To-Do List:
 * Learn about MLOPs
