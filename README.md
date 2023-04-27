@@ -42,10 +42,11 @@ My name is Nate and I am a junior studying Data Science at the University of Cal
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 
-## Education:
+## Places I've Studied:
 * Diablo Valley College
 * Pasadena City College
 * University of California, San Diego
+* University of California, Berkeley
 
 ## Work & Leadership Experience:
 
@@ -69,7 +70,7 @@ My name is Nate and I am a junior studying Data Science at the University of Cal
 </p>
 
 
-## Accomplishments
+## My Accomplishments
 * Accepted to University of California, Berkeley, Los Angeles, and San Diego!
 * Apart of Chan Zuckerberg Biohub
 * Part of Deloitte's Mentorship Program
