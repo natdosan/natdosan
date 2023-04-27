@@ -1,6 +1,8 @@
 # Hi there 👋 
 # @natdosan
 # [Personal Website](https://ndelrosx6.wixsite.com/natdosan)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 My name is Nate and I am a junior studying Data Science at the University of California, San Diego
 
