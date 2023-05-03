@@ -1,5 +1,4 @@
 # Hi there 👋 
-# @natdosan
 # [Personal Website](https://ndelrosx6.wixsite.com/natdosan)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natdosan&show_icons=true&theme=jolly)
 
@@ -32,13 +31,6 @@
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 
-### Get to know me!
-My name is Nate and I am a junior studying Data Science at the University of California, San Diego
-
-### Nate's To-Do List:
-* Learn about MLOPs
-* Practice SQL
-
 ### Currently
 * learning missingness mechansisms
 * working with COVID Vaccination Data
@@ -49,27 +41,20 @@ My name is Nate and I am a junior studying Data Science at the University of Cal
 * University of California, San Diego
 * University of California, Berkeley
 
-## Work & Leadership Experience:
-
-* Chan Zuckerburg Biohub
-* Got Plate Lunch
-* University of California, Berkeley
+## I have experience in:
+* Data Science
+* (Un)supervised Learning
+* Bioinformatics
+* Front & Back End 
+* UI/UX Design/Prototyping/Deployment
 
 ## Relative Coursework
-
 * Theoretical Foundations of Data Science, Optimization & Risk Minimization, EDA, AB Testing & Bootstrapping, Probability and Statistics, Data Structures & Algorithms, Intro to Machine Learning
 
 ## Projects:
-
 * Regression and Statistical Analysis for a restaurant business
 * NBA Finals Public Sentiment Analysis
 * NBA Finals Winner Prediction
-
-## Links
-<p align="center">
-<a href="mailto:natdosan@berkeley.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/natdosan/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
 
 ## My Accomplishments
 * Accepted to University of California, Berkeley, Los Angeles, and San Diego!
@@ -79,7 +64,9 @@ My name is Nate and I am a junior studying Data Science at the University of Cal
 
 
 ## Additional Info:
-
 * I work in mainly in Python
 * 📫 How to reach me: natdosan@berkeley.edu or nadelrosario@ucsd.edu
+<p align="center">
+<a href="mailto:natdosan@berkeley.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/natdosan/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 * ⚡ Fun fact: I like music composition, Impressionism, video games, and food!
