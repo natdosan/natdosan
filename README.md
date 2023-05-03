@@ -1,6 +1,9 @@
 # Hi there 👋 
-# [Personal Website](https://ndelrosx6.wixsite.com/natdosan)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natdosan&show_icons=true&theme=jolly)
+# [Personal Website](https://ndelrosx6.wixsite.com/natdosan) 
+<p align="left">
+<a href="mailto:natdosan@berkeley.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/natdosan/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=natdosan&show_icons=true&theme=jolly)
 
 ## Skills
 <p align="center">
@@ -66,7 +69,4 @@
 ## Additional Info:
 * I work in mainly in Python
 * 📫 How to reach me: natdosan@berkeley.edu or nadelrosario@ucsd.edu
-<p align="center">
-<a href="mailto:natdosan@berkeley.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/natdosan/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
 * ⚡ Fun fact: I like music composition, Impressionism, video games, and food!
