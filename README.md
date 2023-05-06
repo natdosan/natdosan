@@ -1,5 +1,5 @@
 # Hi there 👋 
-# [Personal Website](https://ndelrosx6.wixsite.com/natdosan) 
+# [Personal Website](natdosan.github.io) 
 <p align="left">
 <a href="mailto:natdosan@berkeley.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/natdosan/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
