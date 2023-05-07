@@ -5,10 +5,11 @@
 <a href="mailto:natdosan@berkeley.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/natdosan/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natdosan&show_icons=true&theme=jolly)
 
 <table border="0" align="right">
   <tr>
-    <td><![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natdosan&show_icons=true&theme=jolly)>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=natdosan&show_icons=true&theme=jolly" width ="420"/></td>
   </tr>
   
   <tr>
@@ -22,6 +23,8 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natdosan&langs_count=8&layout=compact&hide=css,latex,tex,cmake&exclude_repo=AdventOfCode" width="420"/></td>
   </tr>
 </table>
+
+* 📫 How to reach me: natdosan@berkeley.edu or nadelrosario@ucsd.edu
 
 <details>
 <summary>More Information.</summary>
@@ -117,5 +120,4 @@ Please feel free to contact me.
 
 ## Additional Info:
 * I work in mainly in Python
-* 📫 How to reach me: natdosan@berkeley.edu or nadelrosario@ucsd.edu
 * ⚡ Fun fact: I like music composition, Impressionism, video games, and food!
