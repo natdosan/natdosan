@@ -12,14 +12,14 @@ I'm Nate, an undergraduate Data Science student specializing in ML & AI interest
   </tr>
   
   <tr>
-    <td><img src="https://streak-stats.demolab.com?user=natdosan&ring=DD6304" width="420"/> </td>
+    <td><img src="https://streak-stats.demolab.com?user=natdosan&ring=DD6304&theme=jolly" width="420"/> </td>
   </tr>
   
   <tr>
     <!-- add empty cell here so we don't get alternating colors on the table -->
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natdosan&langs_count=8&layout=compact&hide=css,latex,tex,cmake&exclude_repo=AdventOfCode" width="420"/</td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natdosan&langs_count=8&layout=compact&hide=css&theme=jolly,latex,tex,cmake&exclude_repo=AdventOfCode" width="420"/</td>
   </tr>
 </table>
 
