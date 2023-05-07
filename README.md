@@ -23,7 +23,7 @@ I'm Nate, an undergraduate Data Science student specializing in ML & AI interest
   </tr>
 </table>
 
-* 📫 How to reach me: natdosan@berkeley.edu or nadelrosario@ucsd.edu
+* 📫 How to reach me: nadelrosario@ucsd.edu or natdosan@berkeley.edu 
 
 <details>
 <summary>📝 Experience.</summary>
