@@ -51,10 +51,6 @@ Please feel free to contact me.
 
 </details>
 
-<details>
-<summary>More Information.</summary>
-<br> 
-  
 ## Skills
 <p align="center">
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -83,6 +79,11 @@ Please feel free to contact me.
 <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
+
+<details>
+<summary>More Information.</summary>
+<br> 
+ 
 
 ### Currently
 * learning missingness mechansisms
