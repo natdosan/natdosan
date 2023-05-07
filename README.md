@@ -1,5 +1,5 @@
 # Hi there 👋 
-I am Nate, an undergraduate Data Science student specializing in ML & AI interested in Computer Vision, Deep Reinforcement Learning & Neural Networks, Neural Style Transfer, and Sports Analytics 
+I'm Nate, an undergraduate Data Science student specializing in ML & AI interested in Computer Vision, Deep Reinforcement Learning & Neural Networks, Neural Style Transfer, and Sports Analytics 
 
 <p align="left">
 <a href="mailto:nadelrosario@ucsd.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a 
