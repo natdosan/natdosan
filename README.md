@@ -25,10 +25,6 @@
 * 📫 How to reach me: natdosan@berkeley.edu or nadelrosario@ucsd.edu
 
 <details>
-<summary>More Information.</summary>
-<br> 
-  
-<details>
 <summary>📝 Experience.</summary>
 <br> 
 
@@ -54,6 +50,10 @@ Please feel free to contact me.
 ---
 
 </details>
+
+<details>
+<summary>More Information.</summary>
+<br> 
   
 ## Skills
 <p align="center">
