@@ -5,8 +5,6 @@
 <a href="mailto:natdosan@berkeley.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/natdosan/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natdosan&show_icons=true&theme=jolly)
-
 <table border="0" align="right">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=natdosan&show_icons=true&theme=jolly" width ="420"/></td>
