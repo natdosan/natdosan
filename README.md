@@ -5,7 +5,7 @@
 <a href="mailto:natdosan@berkeley.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/natdosan/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<table border="0" align="right">
+<table border="0" align="right" display="flex">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=natdosan&show_icons=true&theme=jolly" width ="420"/></td>
   </tr>
@@ -18,7 +18,7 @@
     <!-- add empty cell here so we don't get alternating colors on the table -->
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natdosan&langs_count=8&layout=compact&hide=css,latex,tex,cmake&exclude_repo=AdventOfCode" width="420", height="100"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natdosan&langs_count=8&layout=compact&hide=css,latex,tex,cmake&exclude_repo=AdventOfCode" width="420"/</td>
   </tr>
 </table>
 
