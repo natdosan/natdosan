@@ -18,7 +18,7 @@
     <!-- add empty cell here so we don't get alternating colors on the table -->
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natdosan&langs_count=8&layout=compact&hide=css,latex,tex,cmake&exclude_repo=AdventOfCode" width="420"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natdosan&langs_count=8&layout=compact&hide=css,latex,tex,cmake&exclude_repo=AdventOfCode" width="420", height="100"/></td>
   </tr>
 </table>
 
@@ -84,11 +84,6 @@ Please feel free to contact me.
 <summary>More Information.</summary>
 <br> 
  
-
-### Currently
-* learning missingness mechansisms
-* working with COVID Vaccination Data
-
 ## Places I've Studied:
 * Diablo Valley College
 * Pasadena City College
@@ -115,7 +110,6 @@ Please feel free to contact me.
 * Apart of Chan Zuckerberg Biohub
 * Part of Deloitte's Mentorship Program
 * California All Northern Honor Band 2020
-
 
 ## Additional Info:
 * I work in mainly in Python
