@@ -4,8 +4,51 @@
 <a href="mailto:nadelrosario@ucsd.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a 
 <a href="mailto:natdosan@berkeley.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/natdosan/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natdosan&show_icons=true&theme=jolly)
 
+<table border="0" align="right">
+  <tr>
+    <td><img src="https://streak-stats.demolab.com?user=natdosan&ring=DD6304" width="420"/> </td>
+  </tr>
+  <tr>
+    <!-- add empty cell here so we don't get alternating colors on the table -->
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natdosan&langs_count=8&layout=compact&hide=css,latex,tex,cmake&exclude_repo=AdventOfCode" width="420"/></td>
+  </tr>
+</table>
+
+<details>
+<summary>More Information.</summary>
+<br> 
+  
+<details>
+<summary>📝 Experience.</summary>
+<br> 
+
+Most Recently, I was
+- a Data Scientist working in Bioinformatics contributing to CRISPR Screen Analysis and Infectious Disease Research.
+  
+---
+
+</details>
+
+
+<details>
+<summary>📧 Contacting Me.</summary>
+<br> 
+
+Please feel free to contact me.
+- **Github:** (Preferred) Click [here](https://github.com/natdosan/natdosan/issues/new/choose) to leave an issue. This is usually the ideal way to contact me if you didn't have my email originally. If you are contacting me about a project, please leave an issue in the relevant project repository. 
+- **Email:** Please identify your GitHub account username and how you found my profile.
+  - My personal email is 'natdosana@gmail.com`.
+  - My academic emails are listed above.
+
+---
+
+</details>
+  
 ## Skills
 <p align="center">
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
