@@ -32,8 +32,20 @@ Please feel free to contact me.
   - My academic emails are listed above.
 - **Github:** Click [here](https://github.com/natdosan/natdosan/issues/new/choose) to leave an issue. If you are contacting me about a project, please leave an issue in the relevant project repository. 
 - **LinkedIn:** Click [here](http://linkedin.com/in/natdosan/) to connect and message me)
-
 ---
+  
+</details>
+
+<details>
+<summary>My Interests.</summary>
+<br> 
+  
+* Fashion
+* Music composition
+* Impressionism Artwork
+* Video games
+* Cafe hopping!
+* AI Research
 
 </details>
 
@@ -108,7 +120,3 @@ Please feel free to contact me.
 * Apart of Chan Zuckerberg Biohub
 * Part of Deloitte's Mentorship Program
 * California All Northern Honor Band 2020
-
-## Additional Info:
-* I work in mainly in Python
-* ⚡ Fun fact: I like music composition, Impressionism, video games, and food!
