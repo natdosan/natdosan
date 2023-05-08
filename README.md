@@ -14,6 +14,7 @@ I'm Nate, an undergraduate Data Science student specializing in ML & AI interest
 
 Most Recently, I was
 - a Data Science Consultant working with Deloitte and a small business
+- a Back End Engineer developing CRISPR Screen Comparison Queries
 - a Data Scientist working in Bioinformatics contributing to CRISPR Screen Analysis and Infectious Disease Research.
   
 ---
