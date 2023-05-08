@@ -6,17 +6,6 @@ I'm Nate, an undergraduate Data Science student specializing in ML & AI interest
 <a href="mailto:natdosan@berkeley.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/natdosan/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<table border="0" align="right" display="flex">
-
-  
-  <tr>
-    <!-- add empty cell here so we don't get alternating colors on the table -->
-  </tr>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natdosan&langs_count=8&layout=compact&hide=css&theme=jolly,latex,tex,cmake&exclude_repo=AdventOfCode" width="420"/</td>
-  </tr>
-</table>
-
 * 📫 How to reach me: nadelrosario@ucsd.edu or natdosan@berkeley.edu 
 
 <details>
