@@ -23,14 +23,15 @@ Most Recently, I was
 
 
 <details>
-<summary>📧 Contacting Me.</summary>
+<summary>📧 Other ways to Get in Touch.</summary>
 <br> 
 
 Please feel free to contact me.
 - **Email:** (Preferred) Please identify your GitHub account username and how you found my profile.
   - My personal email is 'natdosana@gmail.com`.
   - My academic emails are listed above.
-- **Github:** Click [here](https://github.com/natdosan/natdosan/issues/new/choose) to leave an issue. This is usually the ideal way to contact me if you didn't have my email originally. If you are contacting me about a project, please leave an issue in the relevant project repository. 
+- **Github:** Click [here](https://github.com/natdosan/natdosan/issues/new/choose) to leave an issue. If you are contacting me about a project, please leave an issue in the relevant project repository. 
+- **LinkedIn:** Click [here](http://linkedin.com/natdosan) to connect and message me)
 
 ---
 
