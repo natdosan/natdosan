@@ -7,13 +7,7 @@ I'm Nate, an undergraduate Data Science student specializing in ML & AI interest
 </p>
 
 <table border="0" align="right" display="flex">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=natdosan&show_icons=true&theme=jolly" width ="420"/></td>
-  </tr>
-  
-  <tr>
-    <td><img src="https://streak-stats.demolab.com?user=natdosan&ring=DD6304&theme=jolly" width="420"/> </td>
-  </tr>
+
   
   <tr>
     <!-- add empty cell here so we don't get alternating colors on the table -->
@@ -78,17 +72,24 @@ Please feel free to contact me.
 <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-
-
 <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 </p>
 
+<tr>
+  <td><img src="https://github-readme-stats.vercel.app/api?username=natdosan&show_icons=true&theme=jolly" width ="420"/></td>
+</tr>
+
+<tr>
+  <td><img src="https://streak-stats.demolab.com?user=natdosan&ring=DD6304&theme=jolly" width="420"/> </td>
+</tr>
+
 <details>
 <summary>More Information.</summary>
 <br> 
+  
  
 ## Places I've Studied:
 * Diablo Valley College
