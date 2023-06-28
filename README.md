@@ -81,9 +81,6 @@ Please feel free to contact me.
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 </p>
 
-<tr>
-  <td><img src="https://github-readme-stats.vercel.app/api?username=natdosan&show_icons=true&theme=jolly" width ="420"/></td>
-</tr>
 
 <tr>
   <td><img src="https://streak-stats.demolab.com?user=natdosan&ring=DD6304&theme=jolly" width="420"/> </td>
