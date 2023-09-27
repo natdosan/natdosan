@@ -6,7 +6,8 @@ I'm Nate, an undergraduate Data Science student specializing in ML & AI interest
 <a href="mailto:natdosan@berkeley.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/natdosan/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-* 📫 How to reach me: nadelrosario@ucsd.edu or natdosan@berkeley.edu 
+* 📫 How to reach me: nadelrosario@ucsd.edu
+* I won't be reachable at my other school email, natdosan@berkeley.edu, so the above is the best method of contact
 
 <details>
 <summary>📝 Experience.</summary>
