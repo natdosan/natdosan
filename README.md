@@ -3,7 +3,7 @@ I'm Nate, an undergraduate Data Science student specializing in ML & AI interest
 
 <p align="left">
 <a href="mailto:nadelrosario@ucsd.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a 
-<a href="mailto:natdosan@berkeley.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/natdosan/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:natdosana@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/natdosan/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 * 📫 How to reach me: nadelrosario@ucsd.edu
@@ -14,7 +14,8 @@ I'm Nate, an undergraduate Data Science student specializing in ML & AI interest
 <br> 
 
 Most Recently, I was
-- a Data Science Consultant working with Deloitte and a small business
+- a Machine Learning Intern at SDSC
+- a Data Science Apprentice working with Deloitte and a small business
 - a Back End Engineer developing CRISPR Screen Comparison Queries
 - a Data Scientist working in Bioinformatics contributing to CRISPR Screen Analysis and Infectious Disease Research.
   
@@ -104,6 +105,8 @@ Please feel free to contact me.
 * Bioinformatics
 * Front & Back End 
 * UI/UX Design/Prototyping/Deployment
+* Machine Learning Engineering
+* Recommender Systems
 
 ## Relative Coursework
 * Theoretical Foundations of Data Science, Optimization & Risk Minimization, EDA, AB Testing & Bootstrapping, Probability and Statistics, Data Structures & Algorithms, Intro to Machine Learning
@@ -113,7 +116,7 @@ Please feel free to contact me.
 * NBA Finals Public Sentiment Analysis
 * NBA Finals Winner Prediction
 
-## My Accomplishments
+## Noteworthy Accomplishments
 * Accepted to University of California, Berkeley, Los Angeles, and San Diego!
 * Apart of Chan Zuckerberg Biohub
 * Part of Deloitte's Mentorship Program
