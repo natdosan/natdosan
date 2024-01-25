@@ -13,7 +13,10 @@ I'm Nate, an undergraduate Data Science student specializing in ML & AI interest
 <summary>📝 Experience.</summary>
 <br> 
 
-Most Recently, I was
+Currently I am an Instructional Assistant in the Department of Cognitive Science at UCSD for a data science course of almost 800 students. My coursework this quarter consists of Deep Learning, Computer Vision, Geospatial Data Science, and Data Visualization.
+
+In the past, I was
+- a Data Science Tutor in the Hacioglu Data Science Institute
 - a Machine Learning Intern at SDSC
 - a Data Science Apprentice working with Deloitte and a small business
 - a Back End Engineer developing CRISPR Screen Comparison Queries
