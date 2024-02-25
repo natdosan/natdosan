@@ -1,6 +1,8 @@
 # Hi there 👋 
 I'm Nate, an undergraduate Data Science student specializing in ML & AI interested in applications of Computer Vision, Deep Learning, and Sports Analytics 
 
+I am open to any opportunities related to Data Science, Machine Learning, and Deep Learning applications. Please reach out to me via whichever is the most convenient of my listed contact methods. Thank you!
+
 <p align="left">
 <a href="mailto:nadelrosario@ucsd.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a 
 <a href="mailto:natdosana@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/natdosan/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -14,8 +16,6 @@ I'm Nate, an undergraduate Data Science student specializing in ML & AI interest
 <br> 
 
 Currently I am an Instructional Assistant in the Department of Cognitive Science at UCSD for a data science course of almost 800 students. My coursework this quarter consists of Deep Learning, Computer Vision, Geospatial Data Science, and Data Visualization.
-
-I am open to any opportunities related to Data Science, Machine Learning, and Deep Learning applications. Please reach out to me via whichever is the most convenient of my listed contact methods. Thank you!
 
 In the past, I was
 - a Data Science Tutor in the Hacioglu Data Science Institute
