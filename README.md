@@ -1,5 +1,5 @@
 # Hi there 👋 
-I'm Nate, an undergraduate Data Science student specializing in ML & AI interested in applications of Computer Vision, Deep Learning, and Sports Analytics 
+I'm Nate, pursuing a Bachelors in Data Science with a concentration in in ML & AI at the University of California, San Diego.
 
 I am open to any opportunities related to Data Science, Machine Learning, and Deep Learning applications. Please reach out to me via whichever is the most convenient of my listed contact methods. Thank you!
 
