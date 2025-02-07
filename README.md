@@ -11,7 +11,7 @@ I am open to any opportunities related to Data Science, Machine Learning, and De
 * 📫 How to reach me: nadelrosario@ucsd.edu
 * I won't be reachable at my other school email, natdosan@berkeley.edu, so the above is the best method of contact
 
-[Resume](https://natdosan.github.io/assets/pdfs/Nate_Resume.pdf)
+[Resume](https://natdosan.github.io/assets/pdfs/CV.pdf)
 
 <details>
 <summary>📝 Experience.</summary>
