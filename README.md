@@ -1,5 +1,5 @@
 # Hi there 👋 
-I'm Nate, pursuing a Bachelors in Data Science with a concentration in in ML & AI at the University of California, San Diego.
+I am graduating with a Bachelor's in Data Science concentrating in ML/AI from [UC San Diego](https://datascience.ucsd.edu) in March. Previously, I was a visiting student at [UC Berkeley](https://cdss.berkeley.edu), and spent wonderful summers interning at Bio-Rad (2024), San Diego Supercomputer Center (2023), Chan Zuckerberg Biohub (2022). I am also committed to ***democratizing data science education*** and have served as an Instructional Assistant to over 1500 students at the [Hacioglu Data Science Institute](https://datascience.ucsd.edu). After graduation I plan to pursue a Masters in Computer / Data Science. 
 
 I am open to any opportunities related to Data Science, Machine Learning, and Deep Learning applications. Please reach out to me via whichever is the most convenient of my listed contact methods. Thank you!
 
