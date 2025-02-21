@@ -17,10 +17,12 @@ I am open to any opportunities related to Data Science, Machine Learning, and De
 <summary>📝 Experience.</summary>
 <br> 
 
-Currently I am an Instructional Assistant in the Department of Cognitive Science at UCSD for a data science course of almost 800 students. My coursework this quarter consists of Deep Learning, Computer Vision, Geospatial Data Science, and Data Visualization.
+Currently, I am working on experimentation & integration of [OSWorld](https://os-world.github.io/) into [LLM-Reasoners](https://www.llm-reasoners.net/) under the supervision of Zhiting Hu and Jorge Cheng.
 
 In the past, I was
-- a Data Science Tutor in the Hacioglu Data Science Institute
+- a Data Science Intern at Bio-Rad
+- an Instructional Assistant in Cognitive Science Department
+- an Instructional Assistant in the Hacioglu Data Science Institute
 - a Machine Learning Intern at SDSC
 - a Data Science Apprentice working with Deloitte and a small business
 - a Back End Engineer developing CRISPR Screen Comparison Queries
