@@ -1,15 +1,15 @@
 # Hi there 👋 
-I am graduating with a Bachelor's in Data Science concentrating in ML/AI from [UC San Diego](https://datascience.ucsd.edu) in March. Previously, I was a visiting student at [UC Berkeley](https://cdss.berkeley.edu), and spent wonderful summers interning at Bio-Rad (2024), San Diego Supercomputer Center (2023), Chan Zuckerberg Biohub (2022). I am also committed to ***democratizing data science education*** and have served as an Instructional Assistant to over 1500 students at the [Hacioglu Data Science Institute](https://datascience.ucsd.edu). After graduation I plan to pursue a Masters in Computer / Data Science. I am open to any opportunities related to Data Science, Machine Learning, and Deep Learning applications. Please reach out to me via whichever is the most convenient of my listed contact methods. Thank you!
+I am a first year graduate student at UC Berkeley. studying Data Science. I received my B.S. Data Science concentrating in ML/AI from UC San Diego in March. Previously, I was an Undergraduate at [UC San Diego](https://ucsd.edu), and spent wonderful summers interning at CVS Health (2025), Bio-Rad (2024), San Diego Supercomputer Center (2023), Chan Zuckerberg Biohub (2022). I am also committed to ***democratizing data science education*** and have served as an Instructional Assistant to over 1500 students at the [Hacioglu Data Science Institute](https://datascience.ucsd.edu). Please reach out to me via whichever is the most convenient of my listed contact methods. Thank you!
 
 Outside of academia, I enjoy [Olympic Weightlifting](https://youtu.be/iJPkZscgJhw?si=zuXbVZJNhPZ5yqPR&t=44), art (Monet/Nara/Murakami), music composition (Chopin & Debussy), coffee & tea, interior design, and language learning (中文, 日本語, Français). Besides I also enjoy travelling, with my favorite experiences having been in Shanghai, Kyoto, and New York. If you have Hangzhou recommendations, please reach out!
 
 <p align="left">
-<a href="mailto:nadelrosario@ucsd.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a 
+<a href="mailto:natdosan@berkeley.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a 
 <a href="mailto:natdosana@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/natdosan/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-* 📫 How to reach me: nadelrosario@ucsd.edu
-* I won't be reachable at my other school email, natdosan@berkeley.edu, so the above is the best method of contact
+* 📫 How to reach me: natdosan@berkeley.edu
+* I won't be reachable at my other school email, nadelrosario@ucsd.edu, so the above is the best method of contact
 
 [Resume](https://natdosan.github.io/assets/pdfs/CV.pdf)
 
@@ -17,9 +17,9 @@ Outside of academia, I enjoy [Olympic Weightlifting](https://youtu.be/iJPkZscgJh
 <summary>📝 Experience.</summary>
 <br> 
 
-Currently, I am working on experimentation & integration of [OSWorld](https://os-world.github.io/) into [LLM-Reasoners](https://www.llm-reasoners.net/) under the supervision of Zhiting Hu and Jorge Cheng.
-
 In the past, I was
+- a Data Science Intern at CVS
+- an Undergraduate at UCSD
 - a Data Science Intern at Bio-Rad
 - an Instructional Assistant in Cognitive Science Department
 - an Instructional Assistant in the Hacioglu Data Science Institute
@@ -31,7 +31,6 @@ In the past, I was
 ---
 
 </details>
-
 
 <details>
 <summary>📧 Other ways to Get in Touch.</summary>
